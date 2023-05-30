@@ -13,3 +13,5 @@ Additionally, by looking at the types of commits being made, users can gain insi
 
 The matrics is usefull for OSS project developers, contributors and other stackholders.
 
+These commits used for the pull request.
+
