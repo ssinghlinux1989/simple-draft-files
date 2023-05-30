@@ -10,3 +10,4 @@ There are several types of commits that developers can make, including:
 Commit metrics can be useful to users in several ways. 
 For example, by analyzing commit frequency and size, users can get a sense of how active and productive the development team is. 
 Additionally, by looking at the types of commits being made, users can gain insights into the priorities and focus of the development team, as well as the overall health and stability of the codebase. Finally, commit metrics can be used to identify areas of the codebase that may be in need of additional attention or improvement.
+The matrics is usefull for OSS project developers, contributors and other stackholders.
